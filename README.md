@@ -182,10 +182,6 @@ plt.show()
 
 
 
-### Predictions vs. Actual Values
-
-The scatter plot of actual vs. predicted values shows the accuracy of the model's predictions, with annotations indicating the difference between predicted and actual values.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any suggestions or improvements.
@@ -194,6 +190,3 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-This README provides a comprehensive overview of the repository, guiding users through the installation, usage, and interpretation of the results. Feel free to customize it further based on your specific needs and project details.
