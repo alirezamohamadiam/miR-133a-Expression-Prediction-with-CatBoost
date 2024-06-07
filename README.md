@@ -180,11 +180,7 @@ plt.show()
 | Initial CatBoost Model | 0.0008111481371457363 | 0.6755407451417053 |
 | Tuned CatBoost Model   | 5.90116284577064e-07  | 0.9997639534861692 |
 
-### Feature Importance
 
-![Feature Importance](file-djLizV61RvCh3Y5ReaGsEV2v)
-
-The feature importance plot reveals the most influential features for predicting miR-133a expression levels.
 
 ### Predictions vs. Actual Values
 
