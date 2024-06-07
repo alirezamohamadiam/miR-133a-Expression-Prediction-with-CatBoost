@@ -1,8 +1,3 @@
-# miR-133a-Expression-Prediction-with-CatBoost
-Here's a detailed README for your GitHub repository containing the code for your paper on miR-133a expression levels using the CatBoost regression model.
-
----
-
 # miR-133a Expression Prediction with CatBoost
 
 This repository contains the code used in our research paper for predicting miR-133a expression levels using CatBoost regression models. The repository includes data preprocessing, model training, evaluation, and visualization scripts.
